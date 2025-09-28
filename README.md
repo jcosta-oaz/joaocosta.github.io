@@ -30,5 +30,4 @@
 ---
 
 ## Contact
-- **Email:** joaocosta.dev@gmail.com  
-- **GitHub:** [https://github.com/joaocosta](https://github.com/joaocosta)  
+- **Email:** gpsi.joaocosta.oaz@gmail.com  
